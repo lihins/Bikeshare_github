@@ -16,6 +16,7 @@ bikshare data: chicago.csv, new_york_city.csv, washington.csv
 
 ### Credits
 Project idea: https://classroom.udacity.com/nanodegrees/nd104/dashboard/overview
+
 Used data source: https://divvybikes.com/
 
 
