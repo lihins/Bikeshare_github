@@ -10,8 +10,8 @@ Bikeshare Project with Python
 Project imports US bike share data and answer interesting questions about it by computing descriptive statistics. The python script takes in raw input to create an interactive experience in the terminal and to present these statistics.
 
 ### Files used
-bikshare data: chicago.csv, newYork.csv, washington.csv
 script: bikeshare.py
+bikshare data: chicago.csv, new_york_city.csv, washington.csv
 
 ### Credits
 Used data source: https://divvybikes.com/
