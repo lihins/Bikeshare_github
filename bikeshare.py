@@ -15,7 +15,7 @@ def get_filters():
     """
     print('Hello Udacity Team! Let\'s explore some US bikeshare data!')
     # get user input for city (chicago, new york city, washington).
-    print('-' * 40)
+    print('*' * 40)
     city = 'not selected'
     while city not in ['chicago', 'new york city', 'washington', 'exit']:
         city = input("Select a city: Chicago, New York City, Washington or exit to exit ").lower()
